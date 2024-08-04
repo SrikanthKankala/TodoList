@@ -1,3 +1,30 @@
+# Todo List Assignment - HELPSTiR Company
+
+## Overview
+This is a Todo List application built with React/Next.js. It allows users to create, update, mark as done, and search for tasks. The application also supports SSR (in Next.js) for better performance.
+
+## Features
+- **Create Task**: Add new tasks to your todo list.
+- **Update Task**: Edit existing tasks.
+- **Mark as Done**: Mark tasks as completed.
+- **Search Tasks**: Filter tasks using a search bar.
+- **Expandable List**: View detailed task information including the last updated timestamp.
+
+
+## Future Enhancements
+- Implement user authentication.
+- Integrate with a backend API for persistent data storage.
+- Add more advanced filtering and sorting options.
+
+## Acknowledgements
+- Dummy data is stored in a JSON file for simplicity.
+- This project was developed as part of a technical assessment.
+
+## Setup and Running
+1. Install dependencies with `npm install`.
+2. Run the app with:
+   - `npm run start`
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
